@@ -1,2 +1,2 @@
 # task_tracker
-vcs assignment
+A simple Task Tracker project where users can add, view, and manage tasks.
