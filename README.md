@@ -1,2 +1,8 @@
-# task_tracker
-A simple Task Tracker project where users can add, view, and manage tasks.
+# Task Tracker
+
+A simple project for managing tasks while learning Version Control Systems.
+
+## Installation
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/lavanya200614/task_tracker.git
